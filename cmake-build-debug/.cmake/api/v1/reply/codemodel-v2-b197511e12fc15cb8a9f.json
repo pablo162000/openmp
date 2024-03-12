@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "correccion_examen2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "correccion_examen2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-correccion_examen2-Debug-56c0e68ec9e6f8cfc990.json",
+					"name" : "correccion_examen2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "edge::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-edge-Debug-0eaeba89c7152a96ca91.json",
+					"name" : "edge",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "espejo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-espejo-Debug-85a3da356661c70614a5.json",
+					"name" : "espejo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mediana::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mediana-Debug-04cfdc03725ae63a8e99.json",
+					"name" : "mediana",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rotacion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rotacion-Debug-3816137576501a1147c8.json",
+					"name" : "rotacion",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sobel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sobel-Debug-337d61c8ecaf6e91c031.json",
+					"name" : "sobel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "suma::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-suma-Debug-fac942ae5cf9a99df5d7.json",
+					"name" : "suma",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Programacion Paralela/correccion_examen2/cmake-build-debug",
+		"source" : "C:/Programacion Paralela/correccion_examen2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

@@ -1,0 +1,9 @@
+C:/Programacion Paralela/correccion_examen2/cmake-build-debug/CMakeFiles/correccion_examen2.dir
+C:/Programacion Paralela/correccion_examen2/cmake-build-debug/CMakeFiles/suma.dir
+C:/Programacion Paralela/correccion_examen2/cmake-build-debug/CMakeFiles/espejo.dir
+C:/Programacion Paralela/correccion_examen2/cmake-build-debug/CMakeFiles/rotacion.dir
+C:/Programacion Paralela/correccion_examen2/cmake-build-debug/CMakeFiles/sobel.dir
+C:/Programacion Paralela/correccion_examen2/cmake-build-debug/CMakeFiles/mediana.dir
+C:/Programacion Paralela/correccion_examen2/cmake-build-debug/CMakeFiles/edge.dir
+C:/Programacion Paralela/correccion_examen2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programacion Paralela/correccion_examen2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
